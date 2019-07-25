@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimatePredictor", "UltimatePredictor\UltimatePredictor.csproj", "{FEEAB52C-A897-4EE3-A37A-D538E7E91A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEAB52C-A897-4EE3-A37A-D538E7E91A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEAB52C-A897-4EE3-A37A-D538E7E91A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEAB52C-A897-4EE3-A37A-D538E7E91A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEAB52C-A897-4EE3-A37A-D538E7E91A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E90463-B57A-4E35-8906-E3698AE1AB2C}
+	EndGlobalSection
+EndGlobal
